@@ -53,3 +53,4 @@ We will work with this modules structure:
 - [Lista de posibles manos ganadoras](https://en.wikipedia.org/wiki/List_of_poker_hands)
 - [Calculadora online de mano ganadora](https://www.pokerlistings.com/which-hand-wins-calculator)
 - [Teacher's repo](https://github.com/sdelquin/pro/tree/main/ut4/te2)
+- [Project Partner](https://github.com/ElPayo)
