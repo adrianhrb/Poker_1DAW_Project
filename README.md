@@ -49,8 +49,8 @@ We will work with this modules structure:
 
 ## References
 
-- [Anatomía de una carta de poker](https://bit.ly/45KP9jp)
-- [Lista de posibles manos ganadoras](https://en.wikipedia.org/wiki/List_of_poker_hands)
-- [Calculadora online de mano ganadora](https://www.pokerlistings.com/which-hand-wins-calculator)
+- [Anatomy of a poker card](https://bit.ly/45KP9jp)
+- [List of possible winning hands](https://en.wikipedia.org/wiki/List_of_poker_hands)
+- [Online Winning Hand Calculator](https://www.pokerlistings.com/which-hand-wins-calculator)
 - [Teacher's repo](https://github.com/sdelquin/pro/tree/main/ut4/te2)
 - [Project Partner](https://github.com/ElPayo)
